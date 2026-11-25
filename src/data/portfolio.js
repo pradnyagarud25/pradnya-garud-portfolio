@@ -446,7 +446,7 @@ export const experience = [
     company:
       'Microlink Infrastructure Management Pvt Ltd, Mumbai (Remote)',
 
-    period: 'April 2026 – Present',
+    period: 'April 2026 – Oct 2026',
 
     points: [
 
